@@ -4,7 +4,7 @@
   <img align="center" alt="Js" height="100" width="100" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/Alex.png"><br>
     <a href="https://opensea.io/TheNFTBlazonUniverse">✨ NFTs OpenSea Marketplace</a><br>
     <a href="https://opensea.io/DevilBlazon">✨ NFTs OpenSea Private Collection</a><br>
-    <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/MyCryptoWallets">✨ My Crypto Wallets</a><br>
+    <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets">✨ My Crypto Wallets</a><br>
     <a href="https://www.l2jbrasil.com/profile/148184-allinone/">✨ L2jBrasil</a><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
