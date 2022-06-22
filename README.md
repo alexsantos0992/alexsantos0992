@@ -1,7 +1,5 @@
-  <h3 align="center">Olá! Eu sou o <a href="https://www.instagram.com/alexsantos099213/"><i>Alex</i></a>, bem vindo ao meu Repositório!</h3>
   <div align="center" valign="top">
   <a href="https://github.com/alexsantos0992">  
-  <img align="center" alt="Js" height="100" width="100" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/Alex.png"><br>
     <a href="https://opensea.io/TheNFTBlazonUniverse">✨ NFTs OpenSea Marketplace</a><br>
     <a href="https://opensea.io/DevilBlazon">✨ NFTs OpenSea Private Collection</a><br>
     <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a><br>
