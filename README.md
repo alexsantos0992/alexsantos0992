@@ -2,10 +2,10 @@
   <a href="https://github.com/alexsantos0992">  
       <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
     <a href="https://opensea.io/TheNFTBlazonUniverse" target="_blank">✨ NFTs OpenSea Marketplace</a><br>
-    <a href="https://opensea.io/DevilBlazon">✨ NFTs OpenSea Private Collection</a><br>
+    <a href="https://opensea.io/DevilBlazon" target="_blank">✨ NFTs OpenSea Private Collection</a><br>
     <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a><br>
-    <a href="https://www.l2jbrasil.com/profile/148184-allinone/">✨ L2jBrasil</a><br>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://www.l2jbrasil.com/profile/148184-allinone/" target="_blank">✨ L2jBrasil</a><br>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
   
 <div align="center" valign="top"><br>  
