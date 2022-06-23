@@ -5,21 +5,14 @@
     <a href="https://opensea.io/DevilBlazon" target="_blank">✨ NFTs OpenSea Private Collection</a><br>
     <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a><br>
     <a href="https://www.l2jbrasil.com/profile/148184-allinone/" target="_blank">✨ L2jBrasil</a><br>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
   
 <div align="center" valign="top"><br>  
   <a href="https://github.com/alexsantos0992">
   <img align="center" alt="Js" height="30" width="30" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/opensea.ico">
   <img align="center" alt="Js" height="30" width="30" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/L2jBrasil.png">
-  <img align="center" alt="Js" height="30" width="30" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/nft1.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="30" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/GitHub.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div><br>
   
 <div align="center">
