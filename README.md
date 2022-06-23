@@ -1,6 +1,6 @@
   <div align="center" valign="top">
-      <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
   <a href="https://github.com/alexsantos0992">  
+      <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
     <a href="https://opensea.io/TheNFTBlazonUniverse">✨ NFTs OpenSea Marketplace</a><br>
     <a href="https://opensea.io/DevilBlazon">✨ NFTs OpenSea Private Collection</a><br>
     <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a><br>
