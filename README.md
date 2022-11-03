@@ -1,11 +1,7 @@
   <div align="center" valign="top">
   <a href="https://github.com/alexsantos0992">  
       <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
-    <a href="https://opensea.io/TheNFTBlazonUniverse" target="_blank">✨ NFTs OpenSea Marketplace</a>
-    <a href="https://opensea.io/DevilBlazon" target="_blank">✨ NFTs OpenSea Private Collection</a>
-    <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a>
-    <a href="https://www.l2jbrasil.com/profile/148184-allinone/" target="_blank">✨ L2jBrasil</a><br>  
-</div><br>
+</div>
   
 <div align="center">
   <a href="https://www.linkedin.com/in/alexsantos0992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,4 +19,8 @@
   ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/github-contribution-grid-snake.svg)
   
 </div>
+    <a href="https://opensea.io/TheNFTBlazonUniverse" target="_blank">✨ NFTs OpenSea Marketplace</a>
+    <a href="https://opensea.io/DevilBlazon" target="_blank">✨ NFTs OpenSea Private Collection</a>
+    <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a>
+    <a href="https://www.l2jbrasil.com/profile/148184-allinone/" target="_blank">✨ L2jBrasil</a><br>  
     <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
