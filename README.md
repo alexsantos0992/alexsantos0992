@@ -12,15 +12,14 @@
   <a href="https://www.facebook.com/messages/t/alexsantos0992" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/alexsantos0992" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-  
-<div align="center">
+  <div align="center">
     <a href="https://github.com/alexsantos0992">
-      
-  ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/github-contribution-grid-snake.svg)
-  
-</div>
+        ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/github-contribution-grid-snake.svg)
+  </div>
+  <div align="center" valign="top">
     <a href="https://opensea.io/TheNFTBlazonUniverse" target="_blank">✨ NFTs OpenSea Marketplace</a>
     <a href="https://opensea.io/DevilBlazon" target="_blank">✨ NFTs OpenSea Private Collection</a>
     <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a>
-    <a href="https://www.l2jbrasil.com/profile/148184-allinone/" target="_blank">✨ L2jBrasil</a><br>  
+    <a href="https://www.l2jbrasil.com/profile/148184-allinone/" target="_blank">✨ L2jBrasil</a><br>
+    </div>
     <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
