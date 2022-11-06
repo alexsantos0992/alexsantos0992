@@ -1,7 +1,5 @@
 ## Hello World :coffee:
-<img src="https://raw.githubusercontent.com/alexsantos0992/alexsantos0992/main/assets/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-<br>
-<br>
+<a href="https://github.com/alexsantos0992" target="_blank"><img src="https://raw.githubusercontent.com/alexsantos0992/alexsantos0992/main/assets/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>
 <br>
 <br>
 <div align="center"
