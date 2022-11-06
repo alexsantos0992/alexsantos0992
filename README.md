@@ -1,3 +1,4 @@
+## Hello World :coffee:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <br>
 <br>
@@ -13,7 +14,6 @@
 </div>
   <div align="center" valign="top"> <div align="center" valign="top">
   <a href="https://github.com/alexsantos0992">
-      <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
 </div>
     
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
