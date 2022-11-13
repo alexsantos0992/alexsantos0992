@@ -1,5 +1,9 @@
 ## Hello World :coffee:
-<a href="https://github.com/alexsantos0992" target="_blank"><img src="https://raw.githubusercontent.com/alexsantos0992/alexsantos0992/main/assets/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"></a>
+<a href="https://github.com/alexsantos0992" target="_blank"><img src="https://raw.githubusercontent.com/alexsantos0992/alexsantos0992/main/assets/images/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador"></a>
+
+<br>
+
+<a href="https://github.com/alexsantos0992" target="_blank"><img src="https://raw.githubusercontent.com/alexsantos0992/alexsantos0992/main/assets/images/cryptowallet.gif" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador"></a>
 <br>
 <br>
 <div align="center"
