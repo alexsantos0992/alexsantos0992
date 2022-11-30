@@ -24,11 +24,8 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  
-  ![Snake animation](https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/github-contribution-grid-snake.svg)
- 
-</div>
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/8391493/204920101-6a277d80-cc19-4161-a247-f22f4a1c6fd7.svg)
+
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <div align="center" valign="top">  
     <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a>     
