@@ -1,7 +1,6 @@
 ## Hello World :coffee:
 <div align="center">
-  
-![ezgif-1-12c702d795](https://user-images.githubusercontent.com/8391493/204939266-df1284f0-dc63-42f4-b83f-2dbf4c48640c.gif)
+<a href="https://github.com/Developer-Team-Organization" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204958130-5b003e50-691b-465e-b889-8e8dc52cbcae.gif" target="_blank"></a><br>
 
 </div>
 <div align="center"
