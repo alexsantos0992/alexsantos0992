@@ -24,7 +24,16 @@
   <img align="center" alt="Alex-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
   <img align="center" alt="Alex-Hub" height="40" width="40" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/GitHub.png?raw=true">
   <img align="center" alt="Alex-VS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Alex-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Alex-Photoshop" height="30" width="30" src="https://user-images.githubusercontent.com/8391493/204935845-96f74eb5-2f0d-4a63-813e-93fc1843d1eb.png">
+  <img align="center" alt="Alex-Photoshop" height="40" width="40" src="https://user-images.githubusercontent.com/8391493/204935828-81123a7e-1b73-4787-9187-3f1e564af227.png">
+  <img align="center" alt="Alex-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg">
+  <br>
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/1.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/2.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/3.png?raw=true">
+  <br>
+  <img align="center" alt="Dev-HTML" height="35" width="224" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/4.png?raw=true">
+  <img align="center" alt="Dev-HTML" height="35" width="149" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/5.png?raw=true">
 </div>
 
 ##
