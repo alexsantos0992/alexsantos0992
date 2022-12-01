@@ -1,4 +1,9 @@
 ## Hello World :coffee:
+<div align="center">
+  
+![ezgif-1-12c702d795](https://user-images.githubusercontent.com/8391493/204939266-df1284f0-dc63-42f4-b83f-2dbf4c48640c.gif)
+
+</div>
 <div align="center"
 <a href="https://www.linkedin.com/in/alexsantos0992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5551985634761" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
