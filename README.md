@@ -3,7 +3,7 @@
 <a href="https://github.com/Developer-Team-Organization" target="_blank"><img src="https://user-images.githubusercontent.com/8391493/204958130-5b003e50-691b-465e-b889-8e8dc52cbcae.gif" target="_blank"></a><br>
 
 </div>
-<div align="center"
+<div align="center">
 <a href="https://www.linkedin.com/in/alexsantos0992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5551985634761" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/alexsantos099213/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
