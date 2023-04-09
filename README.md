@@ -48,7 +48,7 @@
 
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/images/0.png">
 <div align="center" valign="top">  
-    <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets</a>     
+    <a href="https://github.com/alexsantos0992/alexsantos0992/blob/main/Wallets.md">✨ My Crypto Wallets(OFF-Private)</a>     
     <a href="https://opensea.io/DevilBlazon" target="_blank">✨ NFTs OpenSea Private Collection</a>     
     <a href="https://opensea.io/TheNFTBlazonUniverse" target="_blank">✨ NFTs OpenSea Marketplace</a>     
     <a href="https://www.l2jbrasil.com/clubs/page/1-conte%C3%BAdo-developer-team/" target="_blank">✨ L2jBrasil</a>
